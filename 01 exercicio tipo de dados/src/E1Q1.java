@@ -1,5 +1,5 @@
 
-public class Exercicio1 {
+public class E1Q1 {
 	/* Crie um programa em Java que obtenha o seu
 	   primeiro nome através do console e exiba a seguinte
 	   frase “Este programa Java foi criado por

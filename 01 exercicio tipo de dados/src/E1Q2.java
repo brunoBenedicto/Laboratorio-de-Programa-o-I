@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio2 {
+public class E1Q2 {
 	/*
 	 * Crie um programa Java no Eclipse que obtenha dois números. 
 	 * O primeiro número representa o salário de um empregado e o

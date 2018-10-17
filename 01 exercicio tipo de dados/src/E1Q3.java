@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio3 {
+public class E1Q3 {
 /*
  * Crie um programa Java no Eclipse que obtenha dois números. 
  * O primeiro número representa a nota do aluno na primeira 

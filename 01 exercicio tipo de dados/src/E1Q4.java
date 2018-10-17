@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio4 {
+public class E1Q4 {
 	/*
 	 *  A nota de um aluno é calculada usando uma média
 		ponderada, pois a segunda nota vale mais do que a

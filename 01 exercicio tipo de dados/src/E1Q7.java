@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio7 {
+public class E1Q7 {
 	/*
 	 *	Faça um programa em Java que leia um texto
 		qualquer e substitua qualquer ocorrência da letra ‘a’

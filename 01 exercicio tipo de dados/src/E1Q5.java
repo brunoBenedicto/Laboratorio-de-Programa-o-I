@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio5 {
+public class E1Q5 {
 	/*
 	 * 	Uma empresa de construção civil precisa
 	    adquirir equipamentos de segurança novos
