@@ -1,0 +1,16 @@
+Descubra o número de dias de azar no século XX
+
+ 
+
+Considere as seguintes informações:
+                    I.            1º de janeiro de 1900 foi uma segunda-feira.
+
+                   II.            Os meses de abril, junho setembro e novembro possuem 30 dias. Todos os demais meses possuem 31 dias, exceto fevereiro. O mês de fevereiro possui 29 dias nos anos bissextos e 28 dias nos demais anos.
+
+                 III.            As regras para verificar se um ano é bissexto são:
+
+                                 i.      Um ano divisível por 400 é bissexto;
+
+                                ii.      Um ano divisível por 4 é bissexto, desde que não seja divisível por 100.
+
+Faça um programa que informe quantas sextas-feiras caíram no dia 13 no século XX (1 de janeiro de 1901 até 31 de dezembro 2000) e informe a quantidade obtida.
